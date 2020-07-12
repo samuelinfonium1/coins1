@@ -1,4 +1,4 @@
-Testi File
+
 import numpy as np
 import matplotlib.pyplot as plt
 from skimage.segmentation import quickshift, felzenszwalb, slic
